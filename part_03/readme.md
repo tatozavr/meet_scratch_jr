@@ -1,0 +1,2 @@
+# Робота з Paint Editor
+
