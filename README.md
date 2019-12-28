@@ -1,6 +1,8 @@
-# scratch_jr
+# Програмування для дітей з Scratch Jr
 
-В цьому курсі аикористані авторські напрацювання авторів курсу та інформація та матеріали з офіційного сайту [Scratch Jr](https://www.scratchjr.org)
+Курс побудований на основі авторських напрацювань авторів курсу та матеріалів з офіційного сайту [Scratch Jr](https://www.scratchjr.org).
+
+Рекомендований вік учнів - 6-8 років.
 
 ![Interface](https://github.com/tatozavr/scratch_jr/blob/master/images/interface_scratch_rr.PNG)
 
