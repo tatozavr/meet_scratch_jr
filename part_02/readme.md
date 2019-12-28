@@ -2,11 +2,4 @@
 
 ## 1. 
 
-https://youtu.be/RXXDUxqBzBI 
-
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+[![1](http://img.youtube.com/vi/RXXDUxqBzBI/0.jpg)](http://www.youtube.com/watch?v=RXXDUxqBzBI "1")
